@@ -1,10 +1,10 @@
 ---
-layout: archive
-permalink: /about/
 
-title: "TEST TITLE"
+layout: single
+permalink: /
+title: ""
 author_profile: true
-classes: wide
+
 ---
 
 Welcome.
