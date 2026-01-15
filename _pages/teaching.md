@@ -13,11 +13,19 @@ My teaching emphasizes clear communication and an approachable classroom environ
 - Course Title (Semester, Year)  
   Role: Discussion sections, grading, office hours
 
+### Associate Instructor (AI), Indiana University Bloomington
+- Course Title (Semester, Year)  
+  Role: Discussion sections, grading, office hours
+
 ### Teaching Assistant, University of Missouri
 - Course Title (Semester, Year)  
   Role: Labs, grading, review sessions
 
-## Mentoring and Service
+  ### Teaching Assistant, University of Missouri
+- Course Title (Semester, Year)  
+  Role: Labs, grading, review sessions
+
+## Service
 - Brief bullet list
 
 ## Student Evaluations
