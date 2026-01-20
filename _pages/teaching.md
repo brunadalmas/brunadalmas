@@ -26,6 +26,8 @@ My teaching emphasizes clear communication and an approachable classroom environ
   Role: 2 weekly labs, grading, and office hours
 
 ## Student Evaluations
+The comments below come directly from students and reflect how they experienced my discussion sections and labs. I value this feedback as an important part of my growth as an instructor and as a reminder of what students find most helpful in their learning process.
+
 - *"Bruna might be the best TA I've had. She did great reviews and would touch on topics that were pretty difficult. Extremely open to questions about class content or assignments. Most every lab that was dedicated to writing had a line of students wanting her input. We had a lot of freedom in our writings; for each of my themes, she showed me where to go to get the most helpful information. She also taught me how to use the online library, which I didn't even know existed. She was also very open and personable. Her labs were comfortable even on days I was completely unprepared. Incredible TA"*
   
 - *"I enjoyed the lab sections more than the lecture specifically for guidance on the writing assignments. The teaching assistant did an excellent job with using all the time of the lab for both her explanations and also allowing us to ask her as many questions as needed to make sure our writing can be successful. I think the teaching assistant also took time outside of office hours to reach students about their needs and questions in the class if there was not enough time during the office hours. While that was not a requirement it really showed a level of commitment to the students and I have not had a teaching assistant show as much involvement as I did this semester during the lab sections and office hours I engaged in."*
