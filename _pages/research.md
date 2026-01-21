@@ -19,8 +19,6 @@ author_profile: true
 *Manuscripts available upon request.*
 
 ### From Shadows to Spotlight: The Power Dynamics Behind Transitional Justice Choices  
-*Working paper*
-
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -29,8 +27,6 @@ What determines the choice of a transitional justice method? While the literatur
 </details>
 
 ### Ideology under Informal Rule: How Criminal Organizations Shape Electoral Outcomes  
-*Working paper*
-
 <details>
 <summary><strong>Abstract</strong></summary>
 
@@ -39,8 +35,6 @@ How do civilians vote when criminal organizations govern everyday life? This pap
 </details>
 
 ### Not All Justice Is Equal: Understanding Crime Outcomes Across Transitional Justice Mechanisms  
-*Working paper*
-
 <details>
 <summary><strong>Abstract</strong></summary>
 
